@@ -361,15 +361,24 @@ dd {
   }
 
   .hero__image {
-    background-position: center 34%;
+    background-position: center top;
+    background-size: auto 125%;
   }
 
   .hero__content {
-    padding: 2vh 0 24vh;
+    padding: 2vh 0 0;
     align-self: start;
   }
 
-  .hero__actions,
+  .hero__actions {
+    position: absolute;
+    left: 12px;
+    right: 12px;
+    bottom: 86px;
+    z-index: 3;
+    margin-top: 0;
+  }
+
   .button {
     width: 100%;
   }
