@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Birthday stage favicon">
+  <defs>
+    <linearGradient id="bg" x1="10" y1="8" x2="56" y2="58" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#1a0828"/>
+      <stop offset="0.55" stop-color="#4b1688"/>
+      <stop offset="1" stop-color="#071b35"/>
+    </linearGradient>
+    <linearGradient id="star" x1="16" y1="16" x2="48" y2="50" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ff4fc7"/>
+      <stop offset="0.55" stop-color="#8c5cff"/>
+      <stop offset="1" stop-color="#42f2ff"/>
+    </linearGradient>
+  </defs>
+  <rect width="64" height="64" rx="16" fill="url(#bg)"/>
+  <circle cx="48" cy="16" r="7" fill="#ffd166"/>
+  <path d="M31.5 10 36 26.5 52 31.5 36 36.5 31.5 53 27 36.5 11 31.5 27 26.5Z" fill="url(#star)"/>
+  <path d="M31.5 18.5 34 28.4 43.5 31.5 34 34.6 31.5 44.5 29 34.6 19.5 31.5 29 28.4Z" fill="#fff7ff"/>
+  <path d="M21 49c7-4 16-4 23 0" fill="none" stroke="#ffd166" stroke-width="4" stroke-linecap="round"/>
+</svg>
