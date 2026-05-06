@@ -54,8 +54,8 @@ a {
 
 .hero__image {
   background-image: image-set(
-    url("assets/hero-kpop-hunters-v2.webp") type("image/webp"),
-    url("assets/hero-kpop-hunters-v2.png") type("image/png")
+    url("assets/hero-kpop-hunters-v6.webp") type("image/webp"),
+    url("assets/hero-kpop-hunters-v6.png") type("image/png")
   );
   background-position: center 45%;
   background-size: cover;
